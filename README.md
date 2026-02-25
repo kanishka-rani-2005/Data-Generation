@@ -62,35 +62,13 @@ plant_height (target variable)
 
 # Machine Learning Models Used
 
-The following models were trained and evaluated:
+The following model is being trained and evaluated:
 
 Linear Regression
 
-Decision Tree Regressor
-
-Random Forest Regressor
-
-K-Nearest Neighbors
-
 # Evaluation Metrics
 
-The models were evaluated using:
-
-Mean Squared Error (MSE)
-
-Root Mean Squared Error (RMSE)
-
-R² Score
-
 The R² score was mainly used to compare model performance.
-
-# Results
-
-Since the simulation follows a mostly linear relationship, Linear Regression performed well.
-
-Tree-based models such as Random Forest also showed strong performance because they can handle non-linear variations introduced by noise.
-
-The best-performing model was selected based on the highest R² score and lowest error metrics.
 
 
 # Conclusion
