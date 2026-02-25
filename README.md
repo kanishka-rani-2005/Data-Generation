@@ -1,5 +1,6 @@
 # Data Generation using Modelling and Simulation for Machine Learning
-📌 ### Overview
+
+### Overview
 
 In many real-world scenarios, collecting large datasets is difficult, expensive, or time-consuming. In such situations, modelling and simulation can be used to generate synthetic data that mimics real-world behavior.
 
@@ -108,7 +109,7 @@ Environmental systems
 
 This assignment helped strengthen my understanding of both simulation techniques and machine learning model evaluation.
 
-# AUTHOR - KANISHKA RANI (102317165)
+## AUTHOR - KANISHKA RANI (102317165)
 
 
 
